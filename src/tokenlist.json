@@ -1,0 +1,92 @@
+{
+    "name": "BlueSwap Token",
+    "timestamp": "2023-07-30T18:00:00.000Z",
+    "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/logo.png",
+    "version": {
+        "major": 1,
+        "minor": 30,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Leet",
+            "address": "0x0963a1aBAF36Ca88C21032b82e479353126A1C4b",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0xdf0D02351A3e7A21D3936cf1CFd1ee554Cee0a80",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/xleet.png"
+        },
+        {
+            "name": "Bald",
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "symbol": "BALD",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/bald.jpg"
+        },
+        {
+            "name": "Burning Brian",
+            "address": "0x7cc74075d60C059468e267bef5D454D032565325",
+            "symbol": "BRIAN",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/burningbrian.png"
+        },
+        {
+            "name": "Doge Base",
+            "address": "0xA3044b2a9ae8073EcC4E277f6246b3b00FC93553",
+            "symbol": "DBASE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/dbase.jpg"
+        },
+        {
+            "name": "x",
+            "address": "0x6067451115b40d49046a17C2f9a6246363F61c72",
+            "symbol": "X",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/xbase.jpg"
+        },
+        {
+            "name": "Basement",
+            "address": "0x0ef45269cf109fAC3EE3471CC8fe57876ecAd262",
+            "symbol": "BSMT",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/basement.jpg"
+        },
+       {
+            "name": "PEPE COIN",
+            "address": "0x32422654153dD5aeB0513190E5Ab878F2B32Ec24",
+            "symbol": "PEPE",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/pepe.png"
+        },
+        {
+            "name": "Ace Of Base",
+            "address": "0xed33162494AdBf4bBe0Aa8F28eeA4cD131c3c404",
+            "symbol": "ACE",
+            "decimals": 9,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/0xblueswap/tokenlist/main/logos/ace.jpg"
+        }
+    ]
+}
